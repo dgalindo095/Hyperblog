@@ -1,0 +1,7 @@
+Buen día, 
+Mi nombre es Diego Galindo tengo 27 años y este es mi primer repositorio con GIT.
+
+soy ingeniero mecatrónico de la Universidad Piloto de Colombia.
+
+En cuanto a mi parte laboral, me encamine por la rama del mantenimiento industrial. como Planeador de mantenimiento.
+Sin embargo, Actualmente empecé a estudiar desarrollo de software.
